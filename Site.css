@@ -1,0 +1,31 @@
+h1,h2,h3 
+{ 	margin-left:570px;
+	margin-right:570px;
+	line-height:30px;
+	padding:10px;
+	
+}
+p
+{	margin-left:575px;
+	margin-right:575px;
+	line-height:30px;
+
+}
+ul
+{
+	margin-left:585px;
+	line-height:30px;
+
+}
+hr
+{
+	margin-left:575px;
+	margin-right:575px;
+}
+body
+{
+	font-family:Verdana;
+	color:#444;
+}
+
+
